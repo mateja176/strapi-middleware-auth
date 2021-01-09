@@ -1,0 +1,23 @@
+{
+  "name": "strapi-middleware-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mateja176/strapi-middleware-auth.git"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mateja176)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateja176/strapi-middleware-auth/issues"
+  },
+  "homepage": "https://github.com/mateja176/strapi-middleware-auth#readme"
+}
